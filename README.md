@@ -9,4 +9,4 @@ este é um *parágrafo* com algumas **formatações** básicas.
 > este é um bloco de citação
 > muito útil para destacar informções
 
-[ clique aqui ] (https://http://cupons.mcdonalds.com.br/fritasfree.com) para mais informações.
+[ clique aqui ] (https://cupons.mcdonalds.com.br/fritasfree) para mais informações.
